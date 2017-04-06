@@ -1,0 +1,39 @@
+/* add your CSS here */
+h1{
+	margin-left: 14px;	
+}
+
+.fact{
+	font-style: italic;
+	margin-left: 14px;
+}
+
+span{
+	font-weight: bold;
+}
+
+ul{
+	list-style-type: none;
+    padding-left: -9px
+}
+
+li{
+	margin-left: -23px;
+}
+
+.divOne{
+	border: solid grey;
+	margin: 14px;
+	box-shadow: 5px 5px 5px grey;
+}
+
+.image{
+	width:300px;
+}
+.description{
+	margin-left: 14px;
+}
+.divTwo{
+	border: solid grey;
+	margin: 14px;
+}
